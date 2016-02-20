@@ -1,0 +1,28 @@
+name: testotwo
+favicon: null
+layout_spectrum: 0.9343221066519618
+typography_spectrum: 0.7691774885170162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.21327143837697804
+  lightness: 0.05662927567027509
+  saturation: 0.7747860630042851
+  rhythmicContrast: 0.5757157769985497
+purpose: []
